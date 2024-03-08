@@ -25,9 +25,11 @@ width: 100%;
 }
 #nav img{
     height: 78px;
+    cursor: pointer;
 }
 #nav h4{
     text-transform: uppercase;
+    cursor: pointer;
 font-weight: 700;
 }
 
